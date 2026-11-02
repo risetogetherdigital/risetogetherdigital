@@ -9,14 +9,12 @@
     width="100%"
     alt="Animated RiseTogether Digital Banner"
   />
-
   <!-- Animated Typing Introduction -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00AEEF&center=true&vCenter=true&width=760&lines=Modern+Websites+for+Growing+Businesses;Creative+Design+%7C+Responsive+Development;Your+Growth%2C+Our+Mission!"
     alt="Animated Introduction"
   />
 
-  
 
   <!-- Social Links -->
   <a href="https://risetogetherdigitalsolution.netlify.app/">
