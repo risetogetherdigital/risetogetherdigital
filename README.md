@@ -65,10 +65,10 @@ A responsive fitness promotional website concept featuring services, trainers, m
 
 | Website type | Starting range |
 | --- | ---: |
-| Basic website | LKR 5,000–10,000 |
-| Business website | LKR 10,000–25,000 |
-| Portfolio website | LKR 7,500–15,000 |
-| Landing page | LKR 5,000–12,000 |
+| Basic website | LKR 4,500–9,500 |
+| Business website | LKR 9,900–2,4500 |
+| Portfolio website | LKR 6,500–14,500 |
+| Landing page | LKR 5,500–11,500 |
 
 Prices depend on the project scope and required features. Domain registration and paid hosting are additional.
 
@@ -91,9 +91,9 @@ Have a business or an idea that needs a website? [Get in touch](https://risetoge
 </p>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@risetogetherdigital">TikTok</a> ·
+  <a href="https://www.tiktok.com/@risetogetherdigital.com">TikTok</a> ·
   <a href="https://www.instagram.com/risetogetherdigital/">Instagram</a> ·
-  <a href="https://www.linkedin.com/in/risetogether-digitalsolution-505761443">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/risetogetherdigital/">LinkedIn</a> ·
   <a href="https://github.com/risetogetherdigital">GitHub</a>
 </p>
 
