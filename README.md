@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="assets/risetogether-logo.jpeg" alt="RiseTogether Digital logo" width="220" />
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061B55,45:0878E8,100:00D4FF&height=210&section=header&text=RiseTogether%20Digital&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Your%20Growth%2C%20Our%20Mission&descAlignY=60&descSize=18" width="100%" alt="Animated blue RiseTogether Digital banner" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00AEEF&center=true&vCenter=true&width=760&lines=Modern+websites+for+growing+businesses;Creative+design+%7C+Responsive+development;Your+Growth%2C+Our+Mission!" alt="Modern websites. Creative design. Your growth, our mission." />
