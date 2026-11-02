@@ -1,9 +1,6 @@
 
 <div align="center">
 
-  <!-- Official RiseTogether Digital Logo -->
-  <img src="assets/risetogether-logo.jpeg" alt="RiseTogether Digital Logo" width="220" />
-
   <br/>
 
   <!-- Animated Header -->
@@ -19,7 +16,7 @@
     alt="Animated Introduction"
   />
 
-  <br/><br/>
+  
 
   <!-- Social Links -->
   <a href="https://risetogetherdigitalsolution.netlify.app/">
@@ -28,7 +25,7 @@
   <a href="https://github.com/risetogetherdigital">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/risetogether-digitalsolution-505761443">
+  <a href="https://www.linkedin.com/in/risetogether-digital">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/risetogetherdigital/">
