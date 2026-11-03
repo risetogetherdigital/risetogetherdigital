@@ -65,10 +65,10 @@ A responsive fitness promotional website concept featuring services, trainers, m
 
 | Website type | Starting range |
 | --- | ---: |
-| Basic website | LKR 4,500–9,500 |
-| Business website | LKR 9,900–2,4500 |
-| Portfolio website | LKR 6,500–14,500 |
-| Landing page | LKR 5,500–11,500 |
+| Basic website | LKR 3,999–9,900 |
+| Business website | LKR 9,900–2,4999 |
+| Portfolio website | LKR 6,499–14,999 |
+| Landing page | LKR 5,999–11,999 |
 
 Prices depend on the project scope and required features. Domain registration and paid hosting are additional.
 
